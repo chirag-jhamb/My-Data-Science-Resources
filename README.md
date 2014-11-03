@@ -2,6 +2,7 @@ My-Data-Science-Resources
 =========================
 
 #### IPython Notebooks:
+- New York Noise Analysis: http://nbviewer.ipython.org/github/jvns/talks/blob/master/pydatanyc2013/PyData%20NYC%202013%20tutorial.ipynb
 
 #### Books:
 - A Programmer's Guide to Data Mining: http://guidetodatamining.com/
