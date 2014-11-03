@@ -6,10 +6,14 @@ My-Data-Science-Resources
   - New York Noise Analysis: http://nbviewer.ipython.org/github/jvns/talks/blob/master/pydatanyc2013/PyData%20NYC%202013%20tutorial.ipynb
   - Cleaning up data: http://nbviewer.ipython.org/github/ResearchComputing/Meetup-Fall-2013/blob/master/python/lecture_21_pandas_processing.ipynb
 - **Regression:**
+  - 2D: http://nbviewer.ipython.org/github/temporaer/tutorial_ml_gkbionics/blob/master/3a%20-%20Linear%20regression%201D.ipynb 
+  - 3D: http://nbviewer.ipython.org/github/temporaer/tutorial_ml_gkbionics/blob/master/3b%20-%20Linear%20regression%202D.ipynb
   - Linear Regression Models with Python: http://mpastell.com/2013/04/19/python_regression/
 - **Clustering:**
+  - Kmeans: http://nbviewer.ipython.org/github/temporaer/tutorial_ml_gkbionics/blob/master/2%20-%20KMeans.ipynb 
   - Introduction to Machine Learning: Clustering and Regression: http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/hw2/HW2.ipynb
   - Diluting Whiskey Data With Python Pandas: http://www.bearrelroll.com/2014/01/scottish-whiskey-and-python-k-means-clustering/
+  - k Nearest Neighbors: http://nbviewer.ipython.org/github/temporaer/tutorial_ml_gkbionics/blob/master/5%20-%20k%20Nearest%20Neighbors.ipynb
 
 #### Books:
 - A Programmer's Guide to Data Mining: http://guidetodatamining.com/
