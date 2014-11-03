@@ -35,6 +35,8 @@ My-Data-Science-Resources
 #### Visualization:
 - Intro to D3.js http://square.github.io/intro-to-d3/web-standards/
 
+#### Useful Stack Overflow Answers
+
 #### List of Resources by Others:
 - The Open Source Data Science Masters: http://datasciencemasters.org/
 - A Practical Intro to Data Science: http://diggdata.in/post/50410269207/a-practical-intro-to-data-science
