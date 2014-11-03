@@ -16,3 +16,6 @@ My-Data-Science-Resources
 
 #### Statistics:
 http://betterexplained.com/articles/a-brief-introduction-to-probability-statistics/
+
+#### Visualization:
+- Intro to D3.js http://square.github.io/intro-to-d3/web-standards/
