@@ -2,15 +2,13 @@ My-Data-Science-Resources
 =========================
 
 #### IPython Notebooks / Examples:
-- New York Noise Analysis: http://nbviewer.ipython.org/github/jvns/talks/blob/master/pydatanyc2013/PyData%20NYC%202013%20tutorial.ipynb
-- Cleaning up data: http://nbviewer.ipython.org/github/ResearchComputing/Meetup-Fall-2013/blob/master/python/lecture_21_pandas_processing.ipynb
-- Linear Regression Models with Python: http://mpastell.com/2013/04/19/python_regression/
-
-Analysis:
-- Regressions:
+- Clean Up:
+  - New York Noise Analysis: http://nbviewer.ipython.org/github/jvns/talks/blob/master/pydatanyc2013/PyData%20NYC%202013%20tutorial.ipynb
+  - Cleaning up data: http://nbviewer.ipython.org/github/ResearchComputing/Meetup-Fall-2013/blob/master/python/lecture_21_pandas_processing.ipynb
+- Regression:
+  - Linear Regression Models with Python: http://mpastell.com/2013/04/19/python_regression/
 - Clustering:
   - Introduction to Machine Learning: Clustering and Regression: http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/hw2/HW2.ipynb
-
 
 #### Books:
 - A Programmer's Guide to Data Mining: http://guidetodatamining.com/
