@@ -9,6 +9,7 @@ My-Data-Science-Resources
   - Linear Regression Models with Python: http://mpastell.com/2013/04/19/python_regression/
 - Clustering:
   - Introduction to Machine Learning: Clustering and Regression: http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/hw2/HW2.ipynb
+  - Diluting Whiskey Data With Python Pandas: http://www.bearrelroll.com/2014/01/scottish-whiskey-and-python-k-means-clustering/
 
 #### Books:
 - A Programmer's Guide to Data Mining: http://guidetodatamining.com/
