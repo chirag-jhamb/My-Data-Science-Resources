@@ -9,7 +9,7 @@ My-Data-Science-Resources
 Analysis:
 - Regressions:
 - Clustering:
-- - Introduction to Machine Learning: Clustering and Regression: http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/hw2/HW2.ipynb
+  - Introduction to Machine Learning: Clustering and Regression: http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/hw2/HW2.ipynb
 
 
 #### Books:
