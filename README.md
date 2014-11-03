@@ -20,6 +20,10 @@ My-Data-Science-Resources
 
 #### Python:
 
+#### Unix:
+- Useful Unix commands for exploring data: http://datavu.blogspot.com/2014/08/useful-unix-commands-for-exploring-data.html
+
+
 #### Computer Science:
 
 #### Statistics:
