@@ -1,8 +1,9 @@
 My-Data-Science-Resources
 =========================
+A collection of resources I found to be the most useful in learning Data Science. This list is continuosly updated with new material.
 
 #### Collection of IPython Notebooks and Examples:
-- **Clean Up:**
+- **Clean Up / Data Munging:**
   - New York Noise Analysis: http://nbviewer.ipython.org/github/jvns/talks/blob/master/pydatanyc2013/PyData%20NYC%202013%20tutorial.ipynb
   - Cleaning up data: http://nbviewer.ipython.org/github/ResearchComputing/Meetup-Fall-2013/blob/master/python/lecture_21_pandas_processing.ipynb
 - **Regression:**
