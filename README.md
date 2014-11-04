@@ -1,7 +1,7 @@
 My-Data-Science-Resources
 =========================
 
-#### IPython Notebooks / Examples:
+#### Collection of IPython Notebooks and Examples:
 - **Clean Up:**
   - New York Noise Analysis: http://nbviewer.ipython.org/github/jvns/talks/blob/master/pydatanyc2013/PyData%20NYC%202013%20tutorial.ipynb
   - Cleaning up data: http://nbviewer.ipython.org/github/ResearchComputing/Meetup-Fall-2013/blob/master/python/lecture_21_pandas_processing.ipynb
