@@ -17,6 +17,7 @@ My-Data-Science-Resources
 
 #### Books:
 - A Programmer's Guide to Data Mining: http://guidetodatamining.com/
+- Doing Bayesian Data Analysis: http://www.indiana.edu/~kruschke/DoingBayesianDataAnalysis/
 - Probabilistic Programming & Bayesian Methods for Hackers: https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 - Frequentism and Bayesianism: A Practical Introduction: http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/
 
