@@ -20,6 +20,7 @@ My-Data-Science-Resources
   - Heatmap: http://nbviewer.ipython.org/gist/louisryan/1a014b9c5d63fbdfc9cc
 - **Other Collections:**
   - Learn Data Science: http://nborwankar.github.io/LearnDataScience/
+  - Python for Exploratory Computing: http://mbakker7.github.io/exploratory_computing_with_python/
 
 #### Books:
 - A Programmer's Guide to Data Mining: http://guidetodatamining.com/
