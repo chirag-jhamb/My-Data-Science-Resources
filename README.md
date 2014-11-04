@@ -6,6 +6,7 @@ My-Data-Science-Resources
   - New York Noise Analysis: http://nbviewer.ipython.org/github/jvns/talks/blob/master/pydatanyc2013/PyData%20NYC%202013%20tutorial.ipynb
   - Cleaning up data: http://nbviewer.ipython.org/github/ResearchComputing/Meetup-Fall-2013/blob/master/python/lecture_21_pandas_processing.ipynb
 - **Regression:**
+  - Linear regression and curve fitting: http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s4/py_exp_comp_s4_sol.ipynb
   - 2D: http://nbviewer.ipython.org/github/temporaer/tutorial_ml_gkbionics/blob/master/3a%20-%20Linear%20regression%201D.ipynb 
   - 3D: http://nbviewer.ipython.org/github/temporaer/tutorial_ml_gkbionics/blob/master/3b%20-%20Linear%20regression%202D.ipynb
   - Linear Regression Models with Python: http://mpastell.com/2013/04/19/python_regression/
