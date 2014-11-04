@@ -43,6 +43,7 @@ My-Data-Science-Resources
 - 10 FREE Resources to Learn Statistics: http://www.marketingdistillery.com/2014/09/06/10-free-resources-to-learn-statistics/
 
 #### Visualization:
+- Matplotlib: http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
 - Intro to D3.js http://square.github.io/intro-to-d3/web-standards/
 
 #### Useful Stack Overflow Answers
