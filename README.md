@@ -35,6 +35,7 @@ My-Data-Science-Resources
 
 #### Statistics:
 - Better Explained: http://betterexplained.com/articles/a-brief-introduction-to-probability-statistics/
+- 10 FREE Resources to Learn Statistics: http://www.marketingdistillery.com/2014/09/06/10-free-resources-to-learn-statistics/
 
 #### Visualization:
 - Intro to D3.js http://square.github.io/intro-to-d3/web-standards/
