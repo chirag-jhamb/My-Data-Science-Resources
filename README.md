@@ -14,6 +14,8 @@ My-Data-Science-Resources
   - Introduction to Machine Learning: Clustering and Regression: http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/hw2/HW2.ipynb
   - Diluting Whiskey Data With Python Pandas: http://www.bearrelroll.com/2014/01/scottish-whiskey-and-python-k-means-clustering/
   - k Nearest Neighbors: http://nbviewer.ipython.org/github/temporaer/tutorial_ml_gkbionics/blob/master/5%20-%20k%20Nearest%20Neighbors.ipynb
+- **Visualization:**
+  - Heatmap: http://nbviewer.ipython.org/gist/louisryan/1a014b9c5d63fbdfc9cc
 - **Other Collections:**
   - Learn Data Science: http://nborwankar.github.io/LearnDataScience/
 
