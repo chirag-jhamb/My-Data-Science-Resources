@@ -30,6 +30,7 @@ My-Data-Science-Resources
 
 #### R:
 - Introduction to R from Tiny Data: http://ramnathv.github.io/pycon2014-r/explore/tidy.html
+- UCLA R Resources: http://statistics.ats.ucla.edu/stat/r/
 
 #### Unix:
 - Useful Unix commands for exploring data: http://datavu.blogspot.com/2014/08/useful-unix-commands-for-exploring-data.html
