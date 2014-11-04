@@ -49,5 +49,6 @@ My-Data-Science-Resources
 #### Useful Stack Overflow Answers
 
 #### List of Resources by Others:
+- A gallery of interesting IPython Notebooks: https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
 - The Open Source Data Science Masters: http://datasciencemasters.org/
 - A Practical Intro to Data Science: http://diggdata.in/post/50410269207/a-practical-intro-to-data-science
