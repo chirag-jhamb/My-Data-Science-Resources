@@ -1,6 +1,6 @@
 My-Data-Science-Resources
 =========================
-A collection of resources I found to be the most useful in learning Data Science. This list is continuosly updated with new material.
+A collection of practical resources I found to be the most useful on my path of learning Data Science. This list is continuosly updated with new material.
 
 #### Collection of IPython Notebooks and Examples:
 - **Clean Up / Data Munging:**
