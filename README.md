@@ -35,6 +35,7 @@ A collection of practical resources I found to be the most useful on my path of 
 - Chicago Crime (2001 to Present): https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 
 #### Python:
+- Problem Solving with Algorithms and Data Structures: http://interactivepython.org/courselib/static/pythonds/index.html
 
 #### R:
 - Introduction to R from Tiny Data: http://ramnathv.github.io/pycon2014-r/explore/tidy.html
