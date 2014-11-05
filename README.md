@@ -43,6 +43,9 @@ A collection of practical resources I found to be the most useful on my path of 
 #### Unix:
 - Useful Unix commands for exploring data: http://datavu.blogspot.com/2014/08/useful-unix-commands-for-exploring-data.html
 
+#### JavaScript:
+- Eloquent JavaScript: http://eloquentjavascript.net/
+
 
 #### Computer Science:
 
