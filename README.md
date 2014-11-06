@@ -19,8 +19,6 @@ A collection of practical resources I found to be the most useful on my path of 
   - k Nearest Neighbors: http://nbviewer.ipython.org/github/temporaer/tutorial_ml_gkbionics/blob/master/5%20-%20k%20Nearest%20Neighbors.ipynb
 - **Visualization:**
   - Heatmap: http://nbviewer.ipython.org/gist/louisryan/1a014b9c5d63fbdfc9cc
-- **Python:**
-  - A Python course for the Humanities: http://fbkarsdorp.github.io/python-course/ http://nbviewer.ipython.org/github/fbkarsdorp/python-course/tree/master/
 - **Other Collections:**
   - Learn Data Science: http://nborwankar.github.io/LearnDataScience/
   - Python for Exploratory Computing: http://mbakker7.github.io/exploratory_computing_with_python/
@@ -40,6 +38,7 @@ A collection of practical resources I found to be the most useful on my path of 
 - Chicago Crime (2001 to Present): https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 
 #### Python:
+- A Python course for the Humanities *(great collection of IPython Notebooks)*: http://fbkarsdorp.github.io/python-course/ http://nbviewer.ipython.org/github/fbkarsdorp/python-course/tree/master/
 - Problem Solving with Algorithms and Data Structures: http://interactivepython.org/courselib/static/pythonds/index.html
 
 #### R:
