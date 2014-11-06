@@ -30,6 +30,9 @@ A collection of practical resources I found to be the most useful on my path of 
 - Probabilistic Programming & Bayesian Methods for Hackers: https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 - Frequentism and Bayesianism: A Practical Introduction: http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/
 
+#### Statistics:
+- Philosophy of Statistics: http://plato.stanford.edu/entries/statistics/
+
 #### Datasets:
 - Stanford Datasets: http://snap.stanford.edu/data/index.html
 - Chicago Crime (2001 to Present): https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
