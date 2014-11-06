@@ -44,6 +44,8 @@ A collection of practical resources I found to be the most useful on my path of 
 #### R:
 - Introduction to R from Tiny Data: http://ramnathv.github.io/pycon2014-r/explore/tidy.html
 - UCLA R Resources: http://statistics.ats.ucla.edu/stat/r/
+- An Introduction to Statistical Learning
+with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 
 #### Unix:
 - Useful Unix commands for exploring data: http://datavu.blogspot.com/2014/08/useful-unix-commands-for-exploring-data.html
