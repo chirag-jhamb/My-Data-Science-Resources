@@ -1,4 +1,4 @@
-My-Data-Science-Resources
+My Data Science Resources
 =========================
 
 With seemingly infinite amount of Data Science resources available online, it is very easy to get lost. I compiled a collection of practical resources I found to be the most useful on my path of learning Data Science. This list is continuosly updated with new material.
