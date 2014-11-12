@@ -7,6 +7,7 @@ With seemingly infinite amount of Data Science resources available online, it is
 - **Clean Up / Data Munging:**
   - New York Noise Analysis: http://nbviewer.ipython.org/github/jvns/talks/blob/master/pydatanyc2013/PyData%20NYC%202013%20tutorial.ipynb
   - Cleaning up data: http://nbviewer.ipython.org/github/ResearchComputing/Meetup-Fall-2013/blob/master/python/lecture_21_pandas_processing.ipynb
+  - GroupBy: http://wesmckinney.com/blog/?p=125
 - **Regression:**
   - Linear regression and curve fitting: http://nbviewer.ipython.org/github/mbakker7/exploratory_computing_with_python/blob/master/notebook_s4/py_exp_comp_s4_sol.ipynb
   - 2D: http://nbviewer.ipython.org/github/temporaer/tutorial_ml_gkbionics/blob/master/3a%20-%20Linear%20regression%201D.ipynb 
