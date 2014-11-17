@@ -14,6 +14,7 @@ With seemingly infinite amount of Data Science resources available online, it is
   - 3D: http://nbviewer.ipython.org/github/temporaer/tutorial_ml_gkbionics/blob/master/3b%20-%20Linear%20regression%202D.ipynb
   - Linear Regression Models with Python: http://mpastell.com/2013/04/19/python_regression/
   - Logistic Regression: http://nbviewer.ipython.org/github/justmarkham/gadsdc1/blob/master/logistic_assignment/kevin_logistic_sklearn.ipynb
+  - Logistic Regression ML: http://jvns.ca/blog/2014/11/17/fun-with-machine-learning-logistic-regression/
 - **Clustering:**
   - Kmeans: http://nbviewer.ipython.org/github/temporaer/tutorial_ml_gkbionics/blob/master/2%20-%20KMeans.ipynb 
   - Introduction to Machine Learning: Clustering and Regression: http://nbviewer.ipython.org/github/amplab/datascience-sp14/blob/master/hw2/HW2.ipynb
