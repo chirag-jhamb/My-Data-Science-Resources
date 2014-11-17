@@ -53,6 +53,7 @@ With seemingly infinite amount of Data Science resources available online, it is
 with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 
 #### Unix:
+- Data Analysis and Visualization using Command Line: http://blog.whatfettle.com/2014/10/13/one-csv-thirty-stories/
 - Useful Unix commands for exploring data: http://datavu.blogspot.com/2014/08/useful-unix-commands-for-exploring-data.html
 
 #### JavaScript:
