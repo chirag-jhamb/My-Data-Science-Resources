@@ -22,6 +22,7 @@ With seemingly infinite amount of Data Science resources available online, it is
 - **Visualization:**
   - Heatmap: http://nbviewer.ipython.org/gist/louisryan/1a014b9c5d63fbdfc9cc
   - Exploratory Graphs: http://nbviewer.ipython.org/github/herrfz/dataanalysis/blob/master/week3/exploratory_graphs.ipynb
+  - Making a map with Python: http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html#.VGmQIHIn3Qo
 - **Other Collections:**
   - Learn Data Science: http://nborwankar.github.io/LearnDataScience/
   - Python for Exploratory Computing: http://mbakker7.github.io/exploratory_computing_with_python/
