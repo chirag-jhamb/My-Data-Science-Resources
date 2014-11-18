@@ -43,6 +43,7 @@ With seemingly infinite amount of Data Science resources available online, it is
 - Chicago Crime (2001 to Present): https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 
 #### Python:
+- Zen of Python Examples: http://stackoverflow.com/questions/228181/the-zen-of-python
 - A Python course for the Humanities *(great collection of IPython Notebooks)*: http://fbkarsdorp.github.io/python-course/ http://nbviewer.ipython.org/github/fbkarsdorp/python-course/tree/master/
 - Problem Solving with Algorithms and Data Structures: http://interactivepython.org/courselib/static/pythonds/index.html
 
