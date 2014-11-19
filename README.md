@@ -22,6 +22,7 @@ With seemingly infinite amount of Data Science resources available online, it is
   - k Nearest Neighbors: http://nbviewer.ipython.org/github/temporaer/tutorial_ml_gkbionics/blob/master/5%20-%20k%20Nearest%20Neighbors.ipynb
 - **Visualization:**
   - Heatmap: http://nbviewer.ipython.org/gist/louisryan/1a014b9c5d63fbdfc9cc
+  - Financial Analysis w/ Heatmap: http://nbviewer.ipython.org/github/twiecki/financial-analysis-python-tutorial/blob/master/1.%20Pandas%20Basics.ipynb
   - Exploratory Graphs: http://nbviewer.ipython.org/github/herrfz/dataanalysis/blob/master/week3/exploratory_graphs.ipynb
   - Making a map with Python: http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html#.VGmQIHIn3Qo
 - **Other Collections:**
