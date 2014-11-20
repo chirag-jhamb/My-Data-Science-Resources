@@ -37,6 +37,9 @@ With seemingly infinite amount of Data Science resources available online, it is
 - Probabilistic Programming & Bayesian Methods for Hackers: https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 - Frequentism and Bayesianism: A Practical Introduction: http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/
 
+#### Pandas:
+- Useful Pandas Snippets: http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/
+
 #### Statistics:
 - Philosophy of Statistics: http://plato.stanford.edu/entries/statistics/
 
