@@ -43,6 +43,7 @@ With seemingly infinite amount of Data Science resources available online, it is
 
 #### Statistics:
 - Philosophy of Statistics: http://plato.stanford.edu/entries/statistics/
+- Stanford Statistical Learning: http://online.stanford.edu/course/statistical-learning
 
 #### Datasets:
 - Stanford Datasets: http://snap.stanford.edu/data/index.html
