@@ -85,3 +85,6 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 - A gallery of interesting IPython Notebooks: https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
 - The Open Source Data Science Masters: http://datasciencemasters.org/
 - A Practical Intro to Data Science: http://diggdata.in/post/50410269207/a-practical-intro-to-data-science
+
+#### Other
+- How to Become a Data Scientist Inforgraphic: http://blog.datacamp.com/wp-content/uploads/2014/08/How-to-become-a-data-scientist.jpg
