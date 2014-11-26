@@ -26,6 +26,7 @@ With seemingly infinite amount of Data Science resources available online, it is
   - Financial Analysis w/ Heatmap: http://nbviewer.ipython.org/github/twiecki/financial-analysis-python-tutorial/blob/master/1.%20Pandas%20Basics.ipynb
   - Exploratory Graphs: http://nbviewer.ipython.org/github/herrfz/dataanalysis/blob/master/week3/exploratory_graphs.ipynb
   - Making a map with Python: http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html#.VGmQIHIn3Qo
+  - Normal Distribution: http://nbviewer.ipython.org/github/mwaskom/seaborn/blob/master/examples/plotting_distributions.ipynb
 - **Other Collections:**
   - Starting with Data Science and Python: http://twiecki.github.io/blog/2014/11/18/python-for-data-science/
   - Learn Data Science: http://nborwankar.github.io/LearnDataScience/
