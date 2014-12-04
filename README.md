@@ -60,6 +60,7 @@ With seemingly infinite amount of Data Science resources available online, it is
 - UCLA R Resources: http://statistics.ats.ucla.edu/stat/r/
 - An Introduction to Statistical Learning
 with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
+- R Language for Programmers: http://www.johndcook.com/blog/r_language_for_programmers/
 
 #### Unix:
 - Data Analysis and Visualization using Command Line: http://blog.whatfettle.com/2014/10/13/one-csv-thirty-stories/
