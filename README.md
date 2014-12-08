@@ -83,6 +83,7 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 #### Useful Stack Overflow Answers
 
 #### List of Resources by Others:
+- Data Science Ontology: http://www.datascienceontology.com/
 - Collection of Data Science Resources: https://github.com/jonathan-bower/DataScienceResources
 - A gallery of interesting IPython Notebooks: https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
 - The Open Source Data Science Masters: http://datasciencemasters.org/
