@@ -41,6 +41,7 @@ With seemingly infinite amount of Data Science resources available online, it is
 
 #### Pandas:
 - Useful Pandas Snippets: http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/
+- Sentiment Analysis: http://blog.kimonolabs.com/2014/12/17/guest-blog-sentiment-analysis-on-web-scraped-data-with-kimono-and-monkeylearn/
 
 #### Statistics:
 - Philosophy of Statistics: http://plato.stanford.edu/entries/statistics/
