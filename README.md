@@ -40,6 +40,7 @@ With seemingly infinite amount of Data Science resources available online, it is
 - Frequentism and Bayesianism: A Practical Introduction: http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/
 
 #### Pandas:
+- Pandas Basics: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb
 - Useful Pandas Snippets: http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/
 - Sentiment Analysis: http://blog.kimonolabs.com/2014/12/17/guest-blog-sentiment-analysis-on-web-scraped-data-with-kimono-and-monkeylearn/
 
