@@ -54,6 +54,7 @@ With seemingly infinite amount of Data Science resources available online, it is
 - Chicago Crime (2001 to Present): https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 
 #### Python:
+- Useful Regual Expressions: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/useful_regex.ipynb
 - Naive Bayes: http://blog.yhathq.com/posts/naive-bayes-in-python.html
 - Zen of Python Examples: http://stackoverflow.com/questions/228181/the-zen-of-python
 - A Python course for the Humanities *(great collection of IPython Notebooks)*: http://fbkarsdorp.github.io/python-course/ http://nbviewer.ipython.org/github/fbkarsdorp/python-course/tree/master/
