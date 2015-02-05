@@ -28,6 +28,7 @@ With seemingly infinite amount of Data Science resources available online, it is
   - Making a map with Python: http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html#.VGmQIHIn3Qo
   - Normal Distribution: http://nbviewer.ipython.org/github/mwaskom/seaborn/blob/master/examples/plotting_distributions.ipynb
 - **Other Collections:**
+  - Full Stack Data Analysis: http://nbviewer.ipython.org/github/jackgolding/FullStackDataAnalysis/tree/master/
   - Starting with Data Science and Python: http://twiecki.github.io/blog/2014/11/18/python-for-data-science/
   - Learn Data Science: http://nborwankar.github.io/LearnDataScience/
   - Python for Exploratory Computing: http://mbakker7.github.io/exploratory_computing_with_python/
