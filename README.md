@@ -50,6 +50,9 @@ With seemingly infinite amount of Data Science resources available online, it is
 - Stanford Statistical Learning: http://online.stanford.edu/course/statistical-learning
 - Probability Course: http://www.probabilitycourse.com/
 
+#### Linear Algebra:
+- Linear Algebra Resources: http://www.itshared.org/2015/02/best-time-to-learn-linear-algebra-is-now.html
+
 #### Datasets:
 - Stanford Datasets: http://snap.stanford.edu/data/index.html
 - Chicago Crime (2001 to Present): https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
