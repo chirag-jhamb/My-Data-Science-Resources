@@ -46,6 +46,7 @@ With seemingly infinite amount of Data Science resources available online, it is
 - Sentiment Analysis: http://blog.kimonolabs.com/2014/12/17/guest-blog-sentiment-analysis-on-web-scraped-data-with-kimono-and-monkeylearn/
 
 #### Statistics:
+- Online Stat Book: http://onlinestatbook.com/index.html
 - Philosophy of Statistics: http://plato.stanford.edu/entries/statistics/
 - Stanford Statistical Learning: http://online.stanford.edu/course/statistical-learning
 - Probability Course: http://www.probabilitycourse.com/
