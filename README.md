@@ -46,6 +46,7 @@ With seemingly infinite amount of Data Science resources available online, it is
 - Sentiment Analysis: http://blog.kimonolabs.com/2014/12/17/guest-blog-sentiment-analysis-on-web-scraped-data-with-kimono-and-monkeylearn/
 
 #### Statistics:
+- Introduction to Statistics with Python: http://work.thaslwanter.at/Stats/html/index.html
 - Understanding Variance, Co-Variance, and Correlation: http://www.countbayesie.com/blog/2015/2/21/variance-co-variance-and-correlation
 - Online Stat Book: http://onlinestatbook.com/index.html
 - Philosophy of Statistics: http://plato.stanford.edu/entries/statistics/
