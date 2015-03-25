@@ -69,6 +69,7 @@ With seemingly infinite amount of Data Science resources available online, it is
 - Problem Solving with Algorithms and Data Structures: http://interactivepython.org/courselib/static/pythonds/index.html
 
 #### R:
+- R Tutorial with Bayesian Statistics: http://www.r-tutor.com/
 - Introduction to R from Tiny Data: http://ramnathv.github.io/pycon2014-r/explore/tidy.html
 - UCLA R Resources: http://statistics.ats.ucla.edu/stat/r/
 - An Introduction to Statistical Learning
