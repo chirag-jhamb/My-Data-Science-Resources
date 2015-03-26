@@ -52,6 +52,8 @@ With seemingly infinite amount of Data Science resources available online, it is
 - Philosophy of Statistics: http://plato.stanford.edu/entries/statistics/
 - Stanford Statistical Learning: http://online.stanford.edu/course/statistical-learning
 - Probability Course: http://www.probabilitycourse.com/
+- Better Explained: http://betterexplained.com/articles/a-brief-introduction-to-probability-statistics/
+- 10 FREE Resources to Learn Statistics: http://www.marketingdistillery.com/2014/09/06/10-free-resources-to-learn-statistics/
 
 #### Linear Algebra:
 - Linear Algebra Resources: http://www.itshared.org/2015/02/best-time-to-learn-linear-algebra-is-now.html
@@ -83,17 +85,11 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 #### JavaScript:
 - Eloquent JavaScript: http://eloquentjavascript.net/
 
-
-#### Computer Science:
-
-#### Statistics:
-- Better Explained: http://betterexplained.com/articles/a-brief-introduction-to-probability-statistics/
-- 10 FREE Resources to Learn Statistics: http://www.marketingdistillery.com/2014/09/06/10-free-resources-to-learn-statistics/
-
 #### Visualization:
 - Matplotlib: http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
 - Intro to D3.js http://square.github.io/intro-to-d3/web-standards/
 - Interactive Data Visualization with D3.js, DC.js, Python, and MongoDB: http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb/
+- Patterns for Information Visualization: http://www.targetprocess.com/articles/information-visualization/
 
 #### Useful Stack Overflow Answers
 
