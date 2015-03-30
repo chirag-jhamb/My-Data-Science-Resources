@@ -34,6 +34,7 @@ With seemingly infinite amount of Data Science resources available online, it is
   - Python for Exploratory Computing: http://mbakker7.github.io/exploratory_computing_with_python/
 
 #### Books:
+- Practical Data Science with R: http://www.amazon.com/Practical-Data-Science-Nina-Zumel/dp/1617291560
 - A Programmer's Guide to Data Mining: http://guidetodatamining.com/
 - Doing Bayesian Data Analysis: http://www.indiana.edu/~kruschke/DoingBayesianDataAnalysis/
 - Think Stats: Probability and Statistics for Programmers: http://www.greenteapress.com/thinkstats/html/index.html
