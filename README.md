@@ -32,6 +32,8 @@ With seemingly infinite amount of Data Science resources available online, it is
   - Starting with Data Science and Python: http://twiecki.github.io/blog/2014/11/18/python-for-data-science/
   - Learn Data Science: http://nborwankar.github.io/LearnDataScience/
   - Python for Exploratory Computing: http://mbakker7.github.io/exploratory_computing_with_python/
+  - Mapping:
+  - Mapping Data with Python: https://wrobstory.github.io/2013/10/mapping-data-python.html
 
 #### Books:
 - Introduction to Statistical Learning: http://www-bcf.usc.edu/~gareth/ISL/
