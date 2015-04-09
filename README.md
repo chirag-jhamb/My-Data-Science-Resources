@@ -95,7 +95,8 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 - Interactive Data Visualization with D3.js, DC.js, Python, and MongoDB: http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb/
 - Patterns for Information Visualization: http://www.targetprocess.com/articles/information-visualization/
 
-#### Useful Stack Overflow Answers
+#### Advanced Machine Learning:
+- Advaced MAchine Learning with Python: https://github.com/ogrisel/parallel_ml_tutorial
 
 #### List of Resources by Others:
 - Data Science Ontology: http://www.datascienceontology.com/
