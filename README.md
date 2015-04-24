@@ -63,6 +63,7 @@ This is a list of resources I found useful on my learning path. This a living li
 - Linear Algebra Resources: http://www.itshared.org/2015/02/best-time-to-learn-linear-algebra-is-now.html
 
 #### Datasets:
+- New York Times: The Upshot: https://github.com/TheUpshot
 - Stanford Datasets: http://snap.stanford.edu/data/index.html
 - Chicago Crime (2001 to Present): https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
 
