@@ -66,6 +66,7 @@ This is a list of resources I found useful on my learning path. This a living li
 - New York Times: The Upshot: https://github.com/TheUpshot
 - Stanford Datasets: http://snap.stanford.edu/data/index.html
 - Chicago Crime (2001 to Present): https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
+- Five Thirty Eught: https://github.com/fivethirtyeight/data
 
 #### Python:
 - Python 2 vs Python 3: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/key_differences_between_python_2_and_3.ipynb
