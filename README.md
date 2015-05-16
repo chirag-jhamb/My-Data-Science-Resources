@@ -93,6 +93,7 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 - Eloquent JavaScript: http://eloquentjavascript.net/
 
 #### Visualization:
+- D3 Tutorial: https://www.dashingd3js.com/
 - Matplotlib: http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
 - Intro to D3.js http://square.github.io/intro-to-d3/web-standards/
 - Interactive Data Visualization with D3.js, DC.js, Python, and MongoDB: http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb/
