@@ -102,6 +102,9 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 #### Advanced Machine Learning:
 - Advaced MAchine Learning with Python: https://github.com/ogrisel/parallel_ml_tutorial
 
+#### Algorithms:
+- Top 10 Data Mining Algorithms in Plain English: http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
+
 #### List of Resources by Others:
 - Data Science Ontology: http://www.datascienceontology.com/
 - Collection of Data Science Resources: https://github.com/jonathan-bower/DataScienceResources
