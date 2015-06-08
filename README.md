@@ -112,6 +112,7 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 - The Open Source Data Science Masters: http://datasciencemasters.org/
 - A Practical Intro to Data Science: http://diggdata.in/post/50410269207/a-practical-intro-to-data-science
 - Materials for Learning Machine Learning: http://www.jacksimpson.co/2015/06/07/materials-for-learning-machine-learning/
+- Statistical Data Minung Tutorials: http://www.autonlab.org/tutorials/list.html
 
 #### Other
 - How to Become a Data Scientist Inforgraphic: http://blog.datacamp.com/wp-content/uploads/2014/08/How-to-become-a-data-scientist.jpg
