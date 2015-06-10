@@ -45,6 +45,7 @@ This is a list of resources I found useful on my learning path. This a living li
 - Frequentism and Bayesianism: A Practical Introduction: http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/
 
 #### Pandas:
+- Sklearn: https://github.com/jseabold/depy/blob/master/pandas_sklearn_rendered.ipynb
 - Pandas Basics: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb
 - Useful Pandas Snippets: http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/
 - Sentiment Analysis: http://blog.kimonolabs.com/2014/12/17/guest-blog-sentiment-analysis-on-web-scraped-data-with-kimono-and-monkeylearn/
