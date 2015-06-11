@@ -36,6 +36,7 @@ This is a list of resources I found useful on my learning path. This a living li
   - Mapping Data with Python: https://wrobstory.github.io/2013/10/mapping-data-python.html
 
 #### Books:
+- Python Cookbook: http://chimera.labs.oreilly.com/books/1230000000393
 - Introduction to Statistical Learning: http://www-bcf.usc.edu/~gareth/ISL/
 - Practical Data Science with R: http://www.amazon.com/Practical-Data-Science-Nina-Zumel/dp/1617291560
 - A Programmer's Guide to Data Mining: http://guidetodatamining.com/
