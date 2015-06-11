@@ -5,7 +5,7 @@ This is a list of resources I found useful on my learning path. This a living li
 
 ###Contents:
 1. Python:
-* Books
+  * Books
 2. Statistics:
 
 #### Collection of IPython Notebooks and Examples:
