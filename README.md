@@ -58,6 +58,7 @@ This is a list of resources I found useful on my learning path. This a living li
 
 #### Statistics:
 - Introduction to Statistics with Python: http://work.thaslwanter.at/Stats/html/index.html
+- The Little Handbook of Statistics: http://www.jerrydallal.com/LHSP/LHSP.htm
 - Understanding Variance, Co-Variance, and Correlation: http://www.countbayesie.com/blog/2015/2/21/variance-co-variance-and-correlation
 - Online Stat Book: http://onlinestatbook.com/index.html
 - Philosophy of Statistics: http://plato.stanford.edu/entries/statistics/
