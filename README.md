@@ -77,6 +77,7 @@ This is a list of resources I found useful on my learning path. This a living li
 - Five Thirty Eught: https://github.com/fivethirtyeight/data
 
 #### Python:
+- Computational Statistics in Python: http://people.duke.edu/~ccc14/sta-663/index.html
 - Python 2 vs Python 3: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/key_differences_between_python_2_and_3.ipynb
 - Useful Regual Expressions: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/useful_regex.ipynb
 - Naive Bayes: http://blog.yhathq.com/posts/naive-bayes-in-python.html
