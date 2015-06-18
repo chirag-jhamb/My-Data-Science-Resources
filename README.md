@@ -90,6 +90,7 @@ This is a list of resources I found useful on my learning path. This a living li
 - Regular Expressions Tutorial: http://www.python-course.eu/re.php
 
 #### R:
+- Communicating Results with R: http://rikturr.com/blog/communicating-experimental-results-with-r/
 - R Tutorial with Bayesian Statistics: http://www.r-tutor.com/
 - Introduction to R from Tiny Data: http://ramnathv.github.io/pycon2014-r/explore/tidy.html
 - UCLA R Resources: http://statistics.ats.ucla.edu/stat/r/
