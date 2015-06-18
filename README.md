@@ -9,6 +9,9 @@ This is a list of resources I found useful on my learning path. This a living li
 2. Statistics:
 
 #### Collection of IPython Notebooks and Examples:
+- **Projects:**
+  - ANALYZING A NHL PLAYOFF GAME WITH TWITTER: http://www.danielforsyth.me/analyzing-a-nhl-playoff-game-with-twitter/
+  - NBA TWITTER, EMOJIS, AND WORD EMBEDDINGS: http://www.danielforsyth.me/nba-twitter-emojis-and-word-embeddings/
 - **Clean Up / Data Munging:**
   - New York Noise Analysis: http://nbviewer.ipython.org/github/jvns/talks/blob/master/pydatanyc2013/PyData%20NYC%202013%20tutorial.ipynb
   - Cleaning up data: http://nbviewer.ipython.org/github/ResearchComputing/Meetup-Fall-2013/blob/master/python/lecture_21_pandas_processing.ipynb
