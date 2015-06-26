@@ -3,10 +3,6 @@ My Data Science Resources
 
 This is a list of resources I found useful on my learning path. This a living list and is continuosly updated with new material.
 
-###Contents:
-1. Python:
-  * Books
-2. Statistics:
 
 #### Collection of IPython Notebooks and Examples:
 - **Projects:**
