@@ -3,7 +3,6 @@ My Data Science Resources
 
 This is a list of resources I found useful on my learning path. This a living list and is continuosly updated with new material.
 
-
 #### Collection of IPython Notebooks and Examples:
 - **Projects:**
   - ANALYZING A NHL PLAYOFF GAME WITH TWITTER: http://www.danielforsyth.me/analyzing-a-nhl-playoff-game-with-twitter/
@@ -117,6 +116,7 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 - Top 10 Data Mining Algorithms in Plain English: http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 
 #### List of Resources by Others:
+- Collection of Data Analytics & R eBooks: http://advanceddataanalytics.net/ebooks/
 - Data Science Ontology: http://www.datascienceontology.com/
 - Collection of Data Science Resources: https://github.com/jonathan-bower/DataScienceResources
 - A gallery of interesting IPython Notebooks: https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
