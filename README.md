@@ -39,6 +39,7 @@ This is a list of resources I found useful on my learning path. This a living li
   - Mapping Data with Python: https://wrobstory.github.io/2013/10/mapping-data-python.html
 
 #### Books:
+- Collection of Data Analytics & R eBooks: http://advanceddataanalytics.net/ebooks/
 - 16 Free Data Science Books: http://www.wzchen.com/data-science-books
 - Python Cookbook: http://chimera.labs.oreilly.com/books/1230000000393
 - Introduction to Statistical Learning: http://www-bcf.usc.edu/~gareth/ISL/
@@ -116,7 +117,6 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 - Top 10 Data Mining Algorithms in Plain English: http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 
 #### List of Resources by Others:
-- Collection of Data Analytics & R eBooks: http://advanceddataanalytics.net/ebooks/
 - Data Science Ontology: http://www.datascienceontology.com/
 - Collection of Data Science Resources: https://github.com/jonathan-bower/DataScienceResources
 - A gallery of interesting IPython Notebooks: https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
