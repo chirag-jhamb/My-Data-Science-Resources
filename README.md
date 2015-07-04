@@ -4,9 +4,7 @@ My Data Science Resources
 This is a list of resources I found useful on my learning path. This a living list and is continuosly updated with new material.
 
 #### Collection of IPython Notebooks and Examples:
-- **Projects:**
-  - ANALYZING A NHL PLAYOFF GAME WITH TWITTER: http://www.danielforsyth.me/analyzing-a-nhl-playoff-game-with-twitter/
-  - NBA TWITTER, EMOJIS, AND WORD EMBEDDINGS: http://www.danielforsyth.me/nba-twitter-emojis-and-word-embeddings/
+
 - **Clean Up / Data Munging:**
   - New York Noise Analysis: http://nbviewer.ipython.org/github/jvns/talks/blob/master/pydatanyc2013/PyData%20NYC%202013%20tutorial.ipynb
   - Cleaning up data: http://nbviewer.ipython.org/github/ResearchComputing/Meetup-Fall-2013/blob/master/python/lecture_21_pandas_processing.ipynb
@@ -37,6 +35,9 @@ This is a list of resources I found useful on my learning path. This a living li
   - Python for Exploratory Computing: http://mbakker7.github.io/exploratory_computing_with_python/
   - Mapping:
   - Mapping Data with Python: https://wrobstory.github.io/2013/10/mapping-data-python.html
+- **Projects:**
+  - Analyzing a NHL Playoff Game with Twitter: http://www.danielforsyth.me/analyzing-a-nhl-playoff-game-with-twitter/
+  - NBA Twitter, Emojis, and word Embeddings: http://www.danielforsyth.me/nba-twitter-emojis-and-word-embeddings/
 
 #### Books:
 - Collection of Data Analytics & R eBooks: http://advanceddataanalytics.net/ebooks/
