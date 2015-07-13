@@ -118,6 +118,7 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 - Top 10 Data Mining Algorithms in Plain English: http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 
 #### List of Resources by Others:
+- Learn Data Science the Hard Way: http://www.dataphoric.com/2015/06/27/learn_data_science_the_hard_way/
 - Data Science Ontology: http://www.datascienceontology.com/
 - Collection of Data Science Resources: https://github.com/jonathan-bower/DataScienceResources
 - A gallery of interesting IPython Notebooks: https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
