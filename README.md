@@ -105,6 +105,7 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 - Eloquent JavaScript: http://eloquentjavascript.net/
 
 #### Visualization:
+- List of D3 Libraries: https://github.com/wbkd/awesome-d3
 - D3 Tutorial: https://www.dashingd3js.com/
 - Matplotlib: http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
 - Intro to D3.js http://square.github.io/intro-to-d3/web-standards/
