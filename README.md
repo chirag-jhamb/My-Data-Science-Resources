@@ -88,6 +88,7 @@ This is a list of resources I found useful on my learning path. This a living li
 - Regular Expressions Tutorial: http://www.python-course.eu/re.php
 
 #### R:
+- Data Structures in R: https://www.stat.auckland.ac.nz/~paul/ItDT/HTML/node64.html
 - Advanced R: http://adv-r.had.co.nz/
 - Quick-R: http://www.statmethods.net/
 - Communicating Results with R: http://rikturr.com/blog/communicating-experimental-results-with-r/
