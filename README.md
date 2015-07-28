@@ -3,6 +3,19 @@ My Data Science Resources
 
 This is a list of resources I found useful on my learning path. This a living list and is continuosly updated with new material.
 
+#### R:
+- Graphics: http://www.cookbook-r.com/Graphs/index.html
+- Data Structures in R: https://www.stat.auckland.ac.nz/~paul/ItDT/HTML/node64.html
+- Advanced R: http://adv-r.had.co.nz/
+- Quick-R: http://www.statmethods.net/
+- Communicating Results with R: http://rikturr.com/blog/communicating-experimental-results-with-r/
+- R Tutorial with Bayesian Statistics: http://www.r-tutor.com/
+- Introduction to R from Tiny Data: http://ramnathv.github.io/pycon2014-r/explore/tidy.html
+- UCLA R Resources: http://statistics.ats.ucla.edu/stat/r/
+- An Introduction to Statistical Learning
+with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
+- R Language for Programmers: http://www.johndcook.com/blog/r_language_for_programmers/
+
 #### Collection of IPython Notebooks and Examples:
 
 - **Clean Up / Data Munging:**
@@ -86,18 +99,6 @@ This is a list of resources I found useful on my learning path. This a living li
 - A Python course for the Humanities *(great collection of IPython Notebooks)*: http://fbkarsdorp.github.io/python-course/ http://nbviewer.ipython.org/github/fbkarsdorp/python-course/tree/master/
 - Problem Solving with Algorithms and Data Structures: http://interactivepython.org/courselib/static/pythonds/index.html
 - Regular Expressions Tutorial: http://www.python-course.eu/re.php
-
-#### R:
-- Data Structures in R: https://www.stat.auckland.ac.nz/~paul/ItDT/HTML/node64.html
-- Advanced R: http://adv-r.had.co.nz/
-- Quick-R: http://www.statmethods.net/
-- Communicating Results with R: http://rikturr.com/blog/communicating-experimental-results-with-r/
-- R Tutorial with Bayesian Statistics: http://www.r-tutor.com/
-- Introduction to R from Tiny Data: http://ramnathv.github.io/pycon2014-r/explore/tidy.html
-- UCLA R Resources: http://statistics.ats.ucla.edu/stat/r/
-- An Introduction to Statistical Learning
-with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
-- R Language for Programmers: http://www.johndcook.com/blog/r_language_for_programmers/
 
 #### Unix:
 - Data Analysis and Visualization using Command Line: http://blog.whatfettle.com/2014/10/13/one-csv-thirty-stories/
