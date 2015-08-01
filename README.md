@@ -16,6 +16,9 @@ This is a list of resources I found useful on my learning path. This a living li
 with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 - R Language for Programmers: http://www.johndcook.com/blog/r_language_for_programmers/
 
+Algorithms:
+- http://pages.uoregon.edu/cfulton/posts/bernoulli_trials_bayesian.html
+
 #### Collection of IPython Notebooks and Examples:
 
 - **Clean Up / Data Munging:**
