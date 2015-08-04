@@ -18,6 +18,7 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 
 Algorithms:
 - http://pages.uoregon.edu/cfulton/posts/bernoulli_trials_bayesian.html
+- K-Nearest Neighbors: https://www.dataquest.io/blog/k-nearest-neighbors/
 
 #### Collection of IPython Notebooks and Examples:
 
