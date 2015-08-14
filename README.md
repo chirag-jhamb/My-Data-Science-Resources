@@ -104,6 +104,10 @@ Algorithms:
 - Problem Solving with Algorithms and Data Structures: http://interactivepython.org/courselib/static/pythonds/index.html
 - Regular Expressions Tutorial: http://www.python-course.eu/re.php
 
+#### NLP:
+- NLP Class: http://web.stanford.edu/~jurafsky/NLPCourseraSlides.html
+
+
 #### Unix:
 - Data Analysis and Visualization using Command Line: http://blog.whatfettle.com/2014/10/13/one-csv-thirty-stories/
 - Useful Unix commands for exploring data: http://datavu.blogspot.com/2014/08/useful-unix-commands-for-exploring-data.html
