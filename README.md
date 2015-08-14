@@ -104,6 +104,10 @@ Algorithms:
 - Problem Solving with Algorithms and Data Structures: http://interactivepython.org/courselib/static/pythonds/index.html
 - Regular Expressions Tutorial: http://www.python-course.eu/re.php
 
+
+#### Machine Learning
+- Oxford Machine Learninf Slides / Videos: https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+
 #### NLP:
 - NLP Class: http://web.stanford.edu/~jurafsky/NLPCourseraSlides.html
 
