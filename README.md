@@ -3,22 +3,6 @@ My Data Science Resources
 
 This is a list of resources I found useful on my learning path. This a living list and is continuosly updated with new material.
 
-#### R:
-- Graphics: http://www.cookbook-r.com/Graphs/index.html
-- Data Structures in R: https://www.stat.auckland.ac.nz/~paul/ItDT/HTML/node64.html
-- Advanced R: http://adv-r.had.co.nz/
-- Quick-R: http://www.statmethods.net/
-- Communicating Results with R: http://rikturr.com/blog/communicating-experimental-results-with-r/
-- R Tutorial with Bayesian Statistics: http://www.r-tutor.com/
-- Introduction to R from Tiny Data: http://ramnathv.github.io/pycon2014-r/explore/tidy.html
-- UCLA R Resources: http://statistics.ats.ucla.edu/stat/r/
-- An Introduction to Statistical Learning
-with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
-- R Language for Programmers: http://www.johndcook.com/blog/r_language_for_programmers/
-
-Algorithms:
-- http://pages.uoregon.edu/cfulton/posts/bernoulli_trials_bayesian.html
-- K-Nearest Neighbors: https://www.dataquest.io/blog/k-nearest-neighbors/
 
 #### Collection of IPython Notebooks and Examples:
 
@@ -56,43 +40,6 @@ Algorithms:
   - Analyzing a NHL Playoff Game with Twitter: http://www.danielforsyth.me/analyzing-a-nhl-playoff-game-with-twitter/
   - NBA Twitter, Emojis, and word Embeddings: http://www.danielforsyth.me/nba-twitter-emojis-and-word-embeddings/
 
-#### Books:
-- Collection of Data Analytics & R eBooks: http://advanceddataanalytics.net/ebooks/
-- 16 Free Data Science Books: http://www.wzchen.com/data-science-books
-- Python Cookbook: http://chimera.labs.oreilly.com/books/1230000000393
-- Introduction to Statistical Learning: http://www-bcf.usc.edu/~gareth/ISL/
-- Practical Data Science with R: http://www.amazon.com/Practical-Data-Science-Nina-Zumel/dp/1617291560
-- A Programmer's Guide to Data Mining: http://guidetodatamining.com/
-- Doing Bayesian Data Analysis: http://www.indiana.edu/~kruschke/DoingBayesianDataAnalysis/
-- Think Stats: Probability and Statistics for Programmers: http://www.greenteapress.com/thinkstats/html/index.html
-- Probabilistic Programming & Bayesian Methods for Hackers: https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
-- Frequentism and Bayesianism: A Practical Introduction: http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/
-
-#### Pandas:
-- Sklearn: https://github.com/jseabold/depy/blob/master/pandas_sklearn_rendered.ipynb
-- Pandas Basics: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb
-- Useful Pandas Snippets: http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/
-- Sentiment Analysis: http://blog.kimonolabs.com/2014/12/17/guest-blog-sentiment-analysis-on-web-scraped-data-with-kimono-and-monkeylearn/
-
-#### Statistics:
-- Introduction to Statistics with Python: http://work.thaslwanter.at/Stats/html/index.html
-- The Little Handbook of Statistics: http://www.jerrydallal.com/LHSP/LHSP.htm
-- Understanding Variance, Co-Variance, and Correlation: http://www.countbayesie.com/blog/2015/2/21/variance-co-variance-and-correlation
-- Online Stat Book: http://onlinestatbook.com/index.html
-- Philosophy of Statistics: http://plato.stanford.edu/entries/statistics/
-- Stanford Statistical Learning: http://online.stanford.edu/course/statistical-learning
-- Probability Course: http://www.probabilitycourse.com/
-- Better Explained: http://betterexplained.com/articles/a-brief-introduction-to-probability-statistics/
-- 10 FREE Resources to Learn Statistics: http://www.marketingdistillery.com/2014/09/06/10-free-resources-to-learn-statistics/
-
-#### Linear Algebra:
-- Linear Algebra Resources: http://www.itshared.org/2015/02/best-time-to-learn-linear-algebra-is-now.html
-
-#### Datasets:
-- New York Times: The Upshot: https://github.com/TheUpshot
-- Stanford Datasets: http://snap.stanford.edu/data/index.html
-- Chicago Crime (2001 to Present): https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
-- Five Thirty Eught: https://github.com/fivethirtyeight/data
 
 #### Python:
 - Computational Statistics in Python: http://people.duke.edu/~ccc14/sta-663/index.html
@@ -105,8 +52,66 @@ Algorithms:
 - Regular Expressions Tutorial: http://www.python-course.eu/re.php
 
 
+#### Pandas:
+- Sklearn: https://github.com/jseabold/depy/blob/master/pandas_sklearn_rendered.ipynb
+- Pandas Basics: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb
+- Useful Pandas Snippets: http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/
+- Sentiment Analysis: http://blog.kimonolabs.com/2014/12/17/guest-blog-sentiment-analysis-on-web-scraped-data-with-kimono-and-monkeylearn/
+
+
+#### R:
+- Graphics: http://www.cookbook-r.com/Graphs/index.html
+- Data Structures in R: https://www.stat.auckland.ac.nz/~paul/ItDT/HTML/node64.html
+- Advanced R: http://adv-r.had.co.nz/
+- Quick-R: http://www.statmethods.net/
+- Communicating Results with R: http://rikturr.com/blog/communicating-experimental-results-with-r/
+- R Tutorial with Bayesian Statistics: http://www.r-tutor.com/
+- Introduction to R from Tiny Data: http://ramnathv.github.io/pycon2014-r/explore/tidy.html
+- UCLA R Resources: http://statistics.ats.ucla.edu/stat/r/
+- An Introduction to Statistical Learning
+with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
+- R Language for Programmers: http://www.johndcook.com/blog/r_language_for_programmers/
+
+
+#### Books:
+- Collection of Data Analytics & R eBooks: http://advanceddataanalytics.net/ebooks/
+- 16 Free Data Science Books: http://www.wzchen.com/data-science-books
+- Python Cookbook: http://chimera.labs.oreilly.com/books/1230000000393
+- Introduction to Statistical Learning: http://www-bcf.usc.edu/~gareth/ISL/
+- Practical Data Science with R: http://www.amazon.com/Practical-Data-Science-Nina-Zumel/dp/1617291560
+- A Programmer's Guide to Data Mining: http://guidetodatamining.com/
+- Doing Bayesian Data Analysis: http://www.indiana.edu/~kruschke/DoingBayesianDataAnalysis/
+- Think Stats: Probability and Statistics for Programmers: http://www.greenteapress.com/thinkstats/html/index.html
+- Probabilistic Programming & Bayesian Methods for Hackers: https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+- Frequentism and Bayesianism: A Practical Introduction: http://jakevdp.github.io/blog/2014/03/11/frequentism-and-bayesianism-a-practical-intro/
+
+
+#### Statistics:
+- Introduction to Statistics with Python: http://work.thaslwanter.at/Stats/html/index.html
+- The Little Handbook of Statistics: http://www.jerrydallal.com/LHSP/LHSP.htm
+- Understanding Variance, Co-Variance, and Correlation: http://www.countbayesie.com/blog/2015/2/21/variance-co-variance-and-correlation
+- Online Stat Book: http://onlinestatbook.com/index.html
+- Philosophy of Statistics: http://plato.stanford.edu/entries/statistics/
+- Stanford Statistical Learning: http://online.stanford.edu/course/statistical-learning
+- Probability Course: http://www.probabilitycourse.com/
+- Better Explained: http://betterexplained.com/articles/a-brief-introduction-to-probability-statistics/
+- 10 FREE Resources to Learn Statistics: http://www.marketingdistillery.com/2014/09/06/10-free-resources-to-learn-statistics/
+
+
+#### Linear Algebra:
+- Linear Algebra Resources: http://www.itshared.org/2015/02/best-time-to-learn-linear-algebra-is-now.html
+
+
+#### Datasets:
+- New York Times: The Upshot: https://github.com/TheUpshot
+- Stanford Datasets: http://snap.stanford.edu/data/index.html
+- Chicago Crime (2001 to Present): https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
+- Five Thirty Eught: https://github.com/fivethirtyeight/data
+
+
 #### Machine Learning
 - Oxford Machine Learninf Slides / Videos: https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+
 
 #### NLP:
 - NLP Class: http://web.stanford.edu/~jurafsky/NLPCourseraSlides.html
@@ -115,6 +120,9 @@ Algorithms:
 #### Unix:
 - Data Analysis and Visualization using Command Line: http://blog.whatfettle.com/2014/10/13/one-csv-thirty-stories/
 - Useful Unix commands for exploring data: http://datavu.blogspot.com/2014/08/useful-unix-commands-for-exploring-data.html
+
+#### Databases:
+- How does a relational database work: http://coding-geek.com/how-databases-work/
 
 #### JavaScript:
 - Eloquent JavaScript: http://eloquentjavascript.net/
@@ -132,6 +140,8 @@ Algorithms:
 
 #### Algorithms:
 - Top 10 Data Mining Algorithms in Plain English: http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
+- http://pages.uoregon.edu/cfulton/posts/bernoulli_trials_bayesian.html
+- K-Nearest Neighbors: https://www.dataquest.io/blog/k-nearest-neighbors/
 
 #### List of Resources by Others:
 - Learn Data Science the Hard Way: http://www.dataphoric.com/2015/06/27/learn_data_science_the_hard_way/
