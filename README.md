@@ -51,6 +51,7 @@ This is a list of resources I found useful on my learning path. This a living li
 - A Python course for the Humanities *(great collection of IPython Notebooks)*: http://fbkarsdorp.github.io/python-course/ http://nbviewer.ipython.org/github/fbkarsdorp/python-course/tree/master/
 - Problem Solving with Algorithms and Data Structures: http://interactivepython.org/courselib/static/pythonds/index.html
 - Regular Expressions Tutorial: http://www.python-course.eu/re.php
+- A/B Testing: http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/
 
 
 #### Pandas:
