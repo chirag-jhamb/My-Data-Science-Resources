@@ -42,6 +42,7 @@ This is a list of resources I found useful on my learning path. This a living li
 
 
 #### Python:
+- Useful Python Snippets by Chris Albon: http://chrisalbon.com/
 - Computational Statistics in Python: http://people.duke.edu/~ccc14/sta-663/index.html
 - Python 2 vs Python 3: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/key_differences_between_python_2_and_3.ipynb
 - Useful Regual Expressions: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/useful_regex.ipynb
