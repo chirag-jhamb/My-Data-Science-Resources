@@ -1,7 +1,9 @@
 My Data Science Resources
 ---
 
+
 This is a list of resources I found useful on my learning path. This a living list and is continuosly updated with new material.
+
 ---
 ### Table of Contents
 - [Collection of IPython Notebooks and Examples](#collection-of-ipython-notebooks-and-examples)
