@@ -5,8 +5,19 @@ This is a list of resources I found useful on my learning path. This a living li
 
 ### Table of Contents
 [Collection of IPython Notebooks and Examples](#collection-of-ipython-notebooks-and-examples)
-  
-
+[Python](#python)
+[Pandas](#pandas)
+[Algorithms](#algorithms)
+[R](#r)
+[Books](#books)
+[Statistics](#statistics)
+[Machine Learning](#machine-learning)
+[Linear Algebra](#linear-algebra)
+[Datasets](#datasets)
+[Visualizations](#visualizations)
+[Javascript](#javascript)
+[List of Resources by Others](#list-of-resources-by-others)
+[Other](#other)
 
 
 #### Collection of IPython Notebooks and Examples:
@@ -140,9 +151,6 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 - How does a relational database work: http://coding-geek.com/how-databases-work/
 
 
-#### JavaScript:
-- Eloquent JavaScript: http://eloquentjavascript.net/
-
 
 #### Visualization:
 - List of D3 Libraries: https://github.com/wbkd/awesome-d3
@@ -151,6 +159,10 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 - Intro to D3.js http://square.github.io/intro-to-d3/web-standards/
 - Interactive Data Visualization with D3.js, DC.js, Python, and MongoDB: http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb/
 - Patterns for Information Visualization: http://www.targetprocess.com/articles/information-visualization/
+
+
+#### JavaScript:
+- Eloquent JavaScript: http://eloquentjavascript.net/
 
 
 #### List of Resources by Others:
