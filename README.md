@@ -3,6 +3,11 @@ My Data Science Resources
 
 This is a list of resources I found useful on my learning path. This a living list and is continuosly updated with new material.
 
+### Table of Contents
+[Collection of IPython Notebooks and Examples](#collection-of-ipython-notebooks-and-examples)
+  
+
+
 
 #### Collection of IPython Notebooks and Examples:
 
@@ -61,6 +66,12 @@ This is a list of resources I found useful on my learning path. This a living li
 - Sentiment Analysis: http://blog.kimonolabs.com/2014/12/17/guest-blog-sentiment-analysis-on-web-scraped-data-with-kimono-and-monkeylearn/
 
 
+#### Algorithms:
+- Top 10 Data Mining Algorithms in Plain English: http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
+- http://pages.uoregon.edu/cfulton/posts/bernoulli_trials_bayesian.html
+- K-Nearest Neighbors: https://www.dataquest.io/blog/k-nearest-neighbors/
+
+
 #### R:
 - Graphics: http://www.cookbook-r.com/Graphs/index.html
 - Data Structures in R: https://www.stat.auckland.ac.nz/~paul/ItDT/HTML/node64.html
@@ -100,6 +111,11 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 - 10 FREE Resources to Learn Statistics: http://www.marketingdistillery.com/2014/09/06/10-free-resources-to-learn-statistics/
 
 
+#### Machine Learning
+- Oxford Machine Learninf Slides / Videos: https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
+- Advaced Machine Learning with Python: https://github.com/ogrisel/parallel_ml_tutorial
+
+
 #### Linear Algebra:
 - Linear Algebra Resources: http://www.itshared.org/2015/02/best-time-to-learn-linear-algebra-is-now.html
 
@@ -111,11 +127,6 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 - Five Thirty Eught: https://github.com/fivethirtyeight/data
 
 
-#### Machine Learning
-- Oxford Machine Learninf Slides / Videos: https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
-- Advaced Machine Learning with Python: https://github.com/ogrisel/parallel_ml_tutorial
-
-
 #### NLP:
 - NLP Class: http://web.stanford.edu/~jurafsky/NLPCourseraSlides.html
 
@@ -124,11 +135,14 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 - Data Analysis and Visualization using Command Line: http://blog.whatfettle.com/2014/10/13/one-csv-thirty-stories/
 - Useful Unix commands for exploring data: http://datavu.blogspot.com/2014/08/useful-unix-commands-for-exploring-data.html
 
+
 #### Databases:
 - How does a relational database work: http://coding-geek.com/how-databases-work/
 
+
 #### JavaScript:
 - Eloquent JavaScript: http://eloquentjavascript.net/
+
 
 #### Visualization:
 - List of D3 Libraries: https://github.com/wbkd/awesome-d3
@@ -139,11 +153,6 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 - Patterns for Information Visualization: http://www.targetprocess.com/articles/information-visualization/
 
 
-#### Algorithms:
-- Top 10 Data Mining Algorithms in Plain English: http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
-- http://pages.uoregon.edu/cfulton/posts/bernoulli_trials_bayesian.html
-- K-Nearest Neighbors: https://www.dataquest.io/blog/k-nearest-neighbors/
-
 #### List of Resources by Others:
 - Learn Data Science the Hard Way: http://www.dataphoric.com/2015/06/27/learn_data_science_the_hard_way/
 - Data Science Ontology: http://www.datascienceontology.com/
@@ -152,7 +161,7 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 - The Open Source Data Science Masters: http://datasciencemasters.org/
 - A Practical Intro to Data Science: http://diggdata.in/post/50410269207/a-practical-intro-to-data-science
 - Materials for Learning Machine Learning: http://www.jacksimpson.co/2015/06/07/materials-for-learning-machine-learning/
-- Statistical Data Minung Tutorials: http://www.autonlab.org/tutorials/list.html
+- Statistical Data Mining Tutorials: http://www.autonlab.org/tutorials/list.html
 
 #### Other
 - How to Become a Data Scientist Inforgraphic: http://blog.datacamp.com/wp-content/uploads/2014/08/How-to-become-a-data-scientist.jpg
