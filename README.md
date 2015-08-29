@@ -20,6 +20,7 @@ This is a list of resources I found useful on my learning path. This a living li
 - [Javascript](#javascript)
 - [List of Resources by Others](#list-of-resources-by-others)
 - [Other](#other)
+
 ---
 
 #### Collection of IPython Notebooks and Examples:
