@@ -4,20 +4,20 @@ My Data Science Resources
 This is a list of resources I found useful on my learning path. This a living list and is continuosly updated with new material.
 
 ### Table of Contents
-[Collection of IPython Notebooks and Examples](#collection-of-ipython-notebooks-and-examples)
-[Python](#python)
-[Pandas](#pandas)
-[Algorithms](#algorithms)
-[R](#r)
-[Books](#books)
-[Statistics](#statistics)
-[Machine Learning](#machine-learning)
-[Linear Algebra](#linear-algebra)
-[Datasets](#datasets)
-[Visualizations](#visualizations)
-[Javascript](#javascript)
-[List of Resources by Others](#list-of-resources-by-others)
-[Other](#other)
+- [Collection of IPython Notebooks and Examples](#collection-of-ipython-notebooks-and-examples)
+- [Python](#python)
+- [Pandas](#pandas)
+- [Algorithms](#algorithms)
+- [R](#r)
+- [Books](#books)
+- [Statistics](#statistics)
+- [Machine Learning](#machine-learning)
+- [Linear Algebra](#linear-algebra)
+- [Datasets](#datasets)
+- [Visualizations](#visualizations)
+- [Javascript](#javascript)
+- [List of Resources by Others](#list-of-resources-by-others)
+- [Other](#other)
 
 
 #### Collection of IPython Notebooks and Examples:
