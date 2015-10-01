@@ -181,3 +181,6 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 #### Other
 - How to Become a Data Scientist Inforgraphic: http://blog.datacamp.com/wp-content/uploads/2014/08/How-to-become-a-data-scientist.jpg
 - What is code?: http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+
+#### Workshops
+- Insight Data Labs Spark and Visualization Workshops: http://insightdatalabs.com/
