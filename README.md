@@ -126,6 +126,7 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 
 
 #### Machine Learning
+- Scipy Lecture Notes: http://www.scipy-lectures.org/index.html
 - Oxford Machine Learninf Slides / Videos: https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/
 - Advaced Machine Learning with Python: https://github.com/ogrisel/parallel_ml_tutorial
 
