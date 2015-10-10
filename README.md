@@ -71,6 +71,7 @@ This is a list of resources I found useful on my learning path. This a living li
 - Problem Solving with Algorithms and Data Structures: http://interactivepython.org/courselib/static/pythonds/index.html
 - Regular Expressions Tutorial: http://www.python-course.eu/re.php
 - A/B Testing: http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/
+- Python vs. R: https://www.dataquest.io/blog/python-vs-r/
 
 
 #### Pandas:
