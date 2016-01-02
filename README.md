@@ -6,6 +6,7 @@ This is a list of resources I found useful on my learning path. This a living li
 
 ---
 ### Table of Contents
+- [Mathematical Statistics Foundations](#mathematical-statistics-foundations)
 - [Collection of IPython Notebooks and Examples](#collection-of-ipython-notebooks-and-examples)
 - [Python](#python)
 - [Pandas](#pandas)
@@ -22,6 +23,9 @@ This is a list of resources I found useful on my learning path. This a living li
 - [Other](#other)
 
 ---
+#### Mathematical Statistics Foundations:
+- Mathematical Statistics with Applications: http://www.amazon.com/Mathematical-Statistics-Applications-Dennis-Wackerly/dp/0495110817
+
 
 #### Collection of IPython Notebooks and Examples:
 
