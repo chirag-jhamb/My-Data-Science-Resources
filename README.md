@@ -27,6 +27,8 @@ This is a list of resources I found useful on my learning path. This a living li
 - Mathematical Statistics with Applications: http://www.amazon.com/Mathematical-Statistics-Applications-Dennis-Wackerly/dp/0495110817
 
 
+
+
 #### Collection of IPython Notebooks and Examples:
 
 - **Clean Up / Data Munging:**
@@ -65,17 +67,14 @@ This is a list of resources I found useful on my learning path. This a living li
 
 
 #### Python:
-- Useful Python Snippets by Chris Albon: http://chrisalbon.com/
+- Problem Solving with Algorithms and Data Structures: http://interactivepython.org/courselib/static/pythonds/index.html
 - Computational Statistics in Python: http://people.duke.edu/~ccc14/sta-663/index.html
+- Useful Python Snippets by Chris Albon: http://chrisalbon.com/
 - Python 2 vs Python 3: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/key_differences_between_python_2_and_3.ipynb
 - Useful Regual Expressions: http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/useful_regex.ipynb
 - Naive Bayes: http://blog.yhathq.com/posts/naive-bayes-in-python.html
-- Zen of Python Examples: http://stackoverflow.com/questions/228181/the-zen-of-python
 - A Python course for the Humanities *(great collection of IPython Notebooks)*: http://fbkarsdorp.github.io/python-course/ http://nbviewer.ipython.org/github/fbkarsdorp/python-course/tree/master/
-- Problem Solving with Algorithms and Data Structures: http://interactivepython.org/courselib/static/pythonds/index.html
-- Regular Expressions Tutorial: http://www.python-course.eu/re.php
 - A/B Testing: http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/
-- Python vs. R: https://www.dataquest.io/blog/python-vs-r/
 
 
 #### Pandas:
@@ -158,8 +157,6 @@ with Applications in R: http://www-bcf.usc.edu/~gareth/ISL/getbook.html
 
 #### Databases:
 - How does a relational database work: http://coding-geek.com/how-databases-work/
-
-
 
 #### Visualization:
 - List of D3 Libraries: https://github.com/wbkd/awesome-d3
