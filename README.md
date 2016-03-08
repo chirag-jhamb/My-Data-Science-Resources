@@ -85,6 +85,7 @@ This is a list of resources I found useful on my learning path. This a living li
 
 
 #### Algorithms:
+-ML algorithms explained: https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA
 - Top 10 Data Mining Algorithms in Plain English: http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/
 - http://pages.uoregon.edu/cfulton/posts/bernoulli_trials_bayesian.html
 - K-Nearest Neighbors: https://www.dataquest.io/blog/k-nearest-neighbors/
